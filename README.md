@@ -25,10 +25,13 @@ $ git push origin [username]/[your-spirit-animal]
 Create Pull Request on GitHub
 
 ### PHP Track
+```
 $ git clone [your-cit-workshop-fork]
 $ git checkout -b [username]/[your-spirit-animal]
-Edit index.php
-Add an animal element to the animals array on a new line
+```
+
+Edit index.php by adding an animal element to the animals array on a new line
+
 ```
 $ git add index.php
 $ git commit -m "Added [your-spirit-animal] to array"
