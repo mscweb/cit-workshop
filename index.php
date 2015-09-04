@@ -4,6 +4,7 @@ $animals=array(
     'Monkey',
     //Add element here
     'Mustang',
+    'Tiger',
     'Panda'
     );
 //Select a random element(animal) from array
