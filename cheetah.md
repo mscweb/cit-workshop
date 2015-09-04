@@ -1,0 +1,1 @@
+Cheetah's are an extremely fast animal
