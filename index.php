@@ -3,6 +3,7 @@
 $animals=array(
     'Monkey',
     //Add element here
+    'Tiger',
     'Panda'
     );
 //Select a random element(animal) from array
